@@ -2,7 +2,8 @@
 
 An information-theoretic analysis of share price dependencies among Australia's five major banks using **Mutual Information (MI)** and **Conditional Mutual Information (CMI)**, computed over a rolling 10-year window using the KSG nearest-neighbour estimator.
 
-📄 **[Download the full presentation (PDF)](Zhao_Daniel_Presentation_vF.pdf)**
+> [!NOTE]
+> For a concise visual summary of the motivation, method, and key findings, see the **[full presentation slides (PDF)](Zhao_Daniel_Presentation_vF.pdf)**.
 
 ---
 
